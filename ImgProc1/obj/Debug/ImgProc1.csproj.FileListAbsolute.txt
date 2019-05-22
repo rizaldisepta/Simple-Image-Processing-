@@ -1,0 +1,17 @@
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe.config
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\bin\Debug\ImgProc1.exe
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\bin\Debug\ImgProc1.pdb
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csprojResolveAssemblyReference.cache
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Form1.resources
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Properties.Resources.resources
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.GenerateResource.Cache
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.csproj.CoreCompileInputs.cache
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.exe
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.pdb
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Form2.resources
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.FormBrCr.resources
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.FormLogBrightness.resources
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.FormLogContrast.resources
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.GammaCorrection.resources
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.Greyscale_Histogram.resources
+C:\Users\TUMPENG\source\repos\ImgProc1\ImgProc1\obj\Debug\ImgProc1.RGB_Histogram.resources
